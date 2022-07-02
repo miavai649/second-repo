@@ -2,3 +2,12 @@ h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: darkblue;
 }
+small {
+    background-color: aquamarine;
+    font-weight: 900;
+}
+ul {
+    border: 5px dotted chocolate;
+    border-radius: 10px;
+    width: 30%;
+}
