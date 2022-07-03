@@ -14,3 +14,16 @@ ul {
 img {
     width: 50%;
 }
+p {
+    border: 10px solid navy;
+    background-color: darkturquoise;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px 30px;
+}
+.naruto {
+    border: 5px solid orange;
+    background-color: blue;
+    border-radius: 30px;
+    padding: 50px;
+}
